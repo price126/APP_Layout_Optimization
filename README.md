@@ -10,3 +10,7 @@ https://aihub.or.kr/aihubdata/data/view.do?dataSetSn=275
 
 - Korean font<br>
 Install NanumGothic.ttf from https://hangeul.naver.com/font
+<br>
+
+※ The genetic algorithm result file doesn't fully match the current code. <br>
+(there were adjustments to specific parameters)
